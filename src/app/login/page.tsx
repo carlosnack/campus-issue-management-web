@@ -1,7 +1,5 @@
 // pages/login.tsx
 import Head from "next/head";
-import { FaRegEnvelope } from "react-icons/fa";
-import { MdLockOutline } from "react-icons/md";
 
 interface LoginProps {
   errorMessage?: string;
